@@ -3,7 +3,7 @@
 
 💫 About Me:
 
-🔭 I’m currently working on **Papara Android Jetpack Compose** <br>🌱 I’m currently learning **Kotlin & .Net & C#** <br>📫 How to reach me **sumeyrapolaat@gmail.com** <br>📝 I regularly write articles on [https://medium.com/@sumeyrapolat](https://medium.com/@sumeyrapolat)<br>
+🔭 I’m currently working on **Papara Android Kotlin Bootcamp** <br>🌱 I’m currently learning **Kotlin & .Net & C#** <br>📫 How to reach me **sumeyrapolaat@gmail.com** <br>📝 I regularly write articles on [https://medium.com/@sumeyrapolat](https://medium.com/@sumeyrapolat)<br>
 
 
 ## 🌐 Socials:
