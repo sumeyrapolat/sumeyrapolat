@@ -2,6 +2,7 @@
 <h3 align="center">A passionate android developer from Turkey</h3>
 
 💫 About Me:
+
 🔭 I’m currently working on **Android Jetpack Compose** <br>🌱 I’m currently learning **Kotlin & .Net & C#** <br>📫 How to reach me **sumeyrapolaat@gmail.com** <br>📝 I regularly write articles on [https://medium.com/@sumeyrapolat](https://medium.com/@sumeyrapolat)<br>
 
 
